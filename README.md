@@ -1,6 +1,7 @@
-This is a personal profile system for assessment that I develop by using OutSystems low-code platform.
-Attached with the OML for personal profile system.
+This is a Personal Profile System for assessment, developed using the OutSystems low-code platform. The OML file for the Personal Profile System is attached.
 
-Also can access this system at: https://personal-8ks5or6q.outsystemscloud.com/PersonalProfile/Login
+Access the system here: https://personal-8ks5or6q.outsystemscloud.com/PersonalProfile/Login
 
-User can register at the register page as new user and login into the systems.
+Register at the system by using dummy information and login or can use credential below to login:
+Username: abangjamil
+Password: abangjamil
